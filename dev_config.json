@@ -1,0 +1,9 @@
+{
+    "light_mode_css_url": "/dist/site-light.css",
+    "dark_mode_css_url": "/dist/site-dark.css",
+    "binary_path_firefox": "C:\\Program Files\\Mozilla Firefox\\firefox.exe",
+    "driver_path_firefox": "dependencies\\geckodriver.exe",
+    "binary_path_chrome": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "driver_path_chrome": "dependencies\\chromedriver.exe",
+    "driver_path_edge": "dependencies\\msedgedriver.exe"
+}
